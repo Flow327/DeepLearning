@@ -1,4 +1,4 @@
-This is a tutoturial that i followed which tought me the introduction to Deep Learning.
+This is a tutorial that I followed which taught me the introduction to Kotlin Deep Learning.
 
 Image Classification:
 
